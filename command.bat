@@ -1,5 +1,4 @@
-@ECHO Running DIR Test2
+@ECHO Running DIR Test3
 dir
 help
-exit
 
