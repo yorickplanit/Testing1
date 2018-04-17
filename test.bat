@@ -1,1 +1,1 @@
-@ECHO OFF. ECHO. ECHO This is a batch file test again. ECHO. PAUSE. CLS. EXIT.
+@ECHO OFF. ECHO. ECHO This is a batch file test again 2. ECHO. PAUSE. CLS. EXIT.
