@@ -1,3 +1,3 @@
-@ECHO Running DIR Test3
+@ECHO Running DIR Test with Jmeter
 dir
 ipconfig
